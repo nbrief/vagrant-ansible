@@ -1,5 +1,5 @@
 
-source_git_repository="github.com:wieczoreko/vagrant-ansible.git"
+source_git_repository="github.com:nbrief/vagrant-ansible.git"
 
 Vagrant.configure("2") do |config|
 
