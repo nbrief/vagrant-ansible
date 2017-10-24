@@ -8,7 +8,7 @@ Vagrant.configure("2") do |config|
         v.name = "Linux-Gui"
         v.customize [
             "modifyvm", :id,
-            "--name", "Sora",
+            "--name", "Riku",
             "--memory", 2096,
             "--ioapic", "on",
             "--cpus", 2,
