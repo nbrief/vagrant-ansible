@@ -1,6 +1,6 @@
 
 source_git_ssh_repo="github.com:nbrief/vagrant-ansible.git"
-source_git_https_repo="https://github.com/nbrief/vagrant-ansible.git"
+source_git_https_repo="github.com/nbrief/vagrant-ansible.git"
 
 Vagrant.configure("2") do |config|
 
