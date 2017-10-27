@@ -1,5 +1,5 @@
 # vagrant-ansible
-With this Repo you create a debian VM, install ansible and configure the vm with ansible.
+ith this Repo you create a debian VM, install ansible and configure the vm with ansible.
 You only need to have the Vagrantfile downloaded and it will itself download all the Ansible Config files from Github.
 
 
